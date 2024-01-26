@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+validators
+python-dotenv
+pydantic-settings
